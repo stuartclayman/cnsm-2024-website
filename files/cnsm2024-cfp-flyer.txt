@@ -1,0 +1,119 @@
+
+********************************************************************
+CALL FOR PAPERS - CNSM 2024
+
+20th International Conference on Network and Service Management
+
+AI-Powered Network and Service Management for Tomorrow's Digital World
+
+October 28 - 31, 2024
+Prague, Czech Republic
+
+http://www.cnsm-conf.org/2024/
+********************************************************************
+
+
+Important Dates
+Paper Submission: July 1, 2024
+Rebuttal Period: August 19-22, 2024
+Acceptance Notification: August 30, 2024
+Camera Ready: September 13, 2024
+
+The  20th International  Conference  on Network  and Service  Management
+(CNSM) is inviting  authors to submit original  contributions in network
+and  service  management  research.  CNSM is  a  selective  single-track
+conference,  covering all  aspects  of the  management  of networks  and
+services,   pervasive   systems,   enterprises,  and   cloud   computing
+environments. In particular, CNSM 2024  will focus on AI-Powered Network
+and Service Management for Tomorrow's Digital World.
+
+Papers accepted  and presented at  CNSM 2024  will be published  as open
+access  on the  conference website  and will  be submitted  for possible
+publication  in IEEE  Xplore. Authors  of selected  papers accepted  for
+publication in  the CNSM 2024 proceedings  will be invited to  submit an
+extended version of their papers to the IEEE Transactions on Network and
+Service Management journal.
+
+Topics of Interest include, but are not limited to:
+
+TECHNOLOGIES
+* Communication Protocols
+* Middleware
+* Overlay Networks
+* Peer-to-Peer Networks
+* Computing and Storage in the Cloud Continuum
+* Generative AI and Large Language Models
+* Information Visualization
+* Software-Defined Networking
+* Network Function Virtualization
+* Orchestration
+* Operations and Business Support Systems
+* Control and Data Plane Programmability
+* Distributed Ledger Technology
+* Digital Twins for Networks and Services
+* Reinforcement Learning
+
+SERVICE MANAGEMENT
+* Multimedia Services
+* Content Delivery Services
+* Cloud Computing Services
+* Internet Connectivity and Internet Access Services
+* Internet of Things Services
+* Security Services
+* Context-Aware Services
+* Information Technology Services
+* Service Assurance
+
+FUNCTIONAL AREAS
+* Fault Management
+* Configuration Management
+* Accounting Management
+* Performance Management
+* Security Management
+
+MANAGEMENT PARADIGMS
+* Centralized Management
+* Hierarchical Management
+* Distributed Management
+* Federated Management
+* Autonomic and Cognitive Management
+* Policy- and Intent-Based Management
+* Model-Driven Management
+* Pro-active Management
+* Energy-aware Management
+* QoE-Centric Management
+
+METHODS
+* Artificial Intelligence and Machine Learning
+* Mathematical Logic and Automated Reasoning
+* Optimization Theories
+* Control Theory
+* Probability Theory, Stochastic Processes, and Queuing Theory
+* Evolutionary Algorithms
+* Economic Theory and Game Theory
+* Monitoring and Measurements
+* Data Mining and (Big) Data Analysis
+* Computer Simulation Experiments
+* Testbed Experimentation and Field Trials
+* Software Engineering Methodologies
+
+Paper Submission
+Authors are invited to submit  original contributions that have not been
+published  or  submitted for  publication  elsewhere.  Papers should  be
+prepared using the  IEEE 2-column conference style and are  limited to 9
+pages including references (full papers) or 5 pages including references
+(short papers).  Papers must be  submitted electronically in  PDF format
+through EDAS (https://edas.info/N32230).
+
+Papers exceeding page limits, multiple submissions, and self-plagiarized
+papers will  be rejected without  further review. All other  papers will
+get  a thorough  single-blind  review process,  followed  by a  rebuttal
+phase.
+
+Technical Program Co-Chairs:
+Mauro Tortonesi, University of Ferrara, Italy
+Tim Wauters, Ghent University - imec, Belgium
+
+General Co-Chairs:
+Pal Varga, Budapest University of Technology and Economics, Hungary
+Pavel Celeda, Masaryk University, Czech Republic
