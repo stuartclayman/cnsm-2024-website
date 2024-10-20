@@ -8,7 +8,7 @@
   
 - name: Call for Papers
   link: cfp.html
-  status: enabled
+  status: disabled
   
 - name: Authors
   link: authors.html
@@ -18,21 +18,25 @@
   link: cfpst.html
   status: disabled
   
+- name: Call for PhD Posters
+  link: cfphd.html
+  status: enabled
+  
 - name: Call for Tutorials
   link: cft.html
   status: disabled
   
 - name: Call for Workshops
   link: cfw.html  
-  status: enabled
+  status: disabled
   
 - name: Call for Demos
   link: cfd.html  
-  status: enabled
+  status: disabled
   
 - name: Registration
   link: registration.html
-  status: disabled
+  status: enabled
   
 - name: Virtual
   link: virtual.html
@@ -40,15 +44,15 @@
   
 - name: Program
   link: program.html
-  status: disabled
+  status: enabled
   
 - name: Keynotes
   link: keynotes.html
-  status: disabled
+  status: enabled
   
 - name: Panel
   link: panel.html
-  status: disabled
+  status: enabled
   
 - name: Tutorials
   link: tutorial.html
@@ -56,7 +60,7 @@
   
 - name: Workshops
   link: workshops.html
-  status: disabled
+  status: enabled
 
 - name: Meeting
   link: meeting.html
@@ -64,7 +68,7 @@
   
 - name: Patrons
   link: patrons.html
-  status: disabled
+  status: enabled
   
 - name: Locality
   link: locality.html
