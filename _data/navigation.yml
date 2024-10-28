@@ -20,7 +20,7 @@
   
 - name: Call for PhD Posters
   link: cfphd.html
-  status: enabled
+  status: disabled
   
 - name: Call for Tutorials
   link: cft.html
